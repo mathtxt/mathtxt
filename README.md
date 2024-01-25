@@ -1,12 +1,17 @@
-## Boas vindas 😃👍
+# SOBRE MIM:
+💻 - Planejar, Desenvolver, Codificar<br><br>🚀 - Sou um desenvolvedor front-end júnior, ambicioso, hiperfocado <br>e buscando crescer na área. <br><br>Sempre fui um estudante/pesquisador autodidata em várias<br>áreas. Mas agora me dedico totalmente ao ramo digital.<br><br>💡 - Meu objetivo é me tornar um desenvolvedor full-stack 
 
-<div>
-  <a href="https://github.com/mathtxt">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/username=mathtxt&show_icons=true&theme=tokyonight&include_all_comits=true&count_private=true"/>
-        <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathtxt&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
 
-<div style="display:inline_block"><br>
-<img align="center" alt="Js" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+# 💻 TECNOLOGIAS:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mathtxt&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mathtxt&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mathtxt&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mathtxt&icon=9&color=6)](https://visitcount.itsvg.in)
+
