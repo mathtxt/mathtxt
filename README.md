@@ -39,6 +39,10 @@ Busco oportunidades para aplicar e expandir minhas habilidades como desenvolvedo
 mathworkbase@gmail.com
 
 
-![](https://raw.githubusercontent.com/mathtxt/mathtxt/output/github-contribution-grid-snake.svg)
----
+# Snake-in-Contribution-Grid
+
+## How to use
+2. Choose "Read and write permissions" in [Workflow permissions](../../settings/actions)
+3. Enable the workflow in [Actions](../../actions)
+4. Replace YOUR-USERNAME and YOUR-REPO-NAME in `![](https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO-NAME/output/github-contribution-grid-snake.svg)`
 
