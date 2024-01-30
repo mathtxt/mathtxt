@@ -16,8 +16,6 @@ Busco oportunidades para aplicar e expandir minhas habilidades como desenvolvedo
           
 </div>
 
-#### Hobbies 
-Além da programação, gosto de assistir series, ouvir musicas e explorar o mundo dos jogos 
 
 #### Softskills
 - Gestão de Tempo
