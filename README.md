@@ -39,7 +39,7 @@ Busco oportunidades para aplicar e expandir minhas habilidades como desenvolvedo
 mathworkbase@gmail.com
 
 
-  ![Snake animation](https://github.com/cadudevemdobro/cadudevemdobro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/mathtxt/mathtxt/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
