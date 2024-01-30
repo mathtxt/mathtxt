@@ -32,8 +32,10 @@ Além da programação, gosto de assistir series, ouvir musicas e explorar o mun
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mathtxt&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mathtxt&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## Entre em Contato
++55 16 99992-6339
+mathworkbase@gmail.com
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
   ![Snake animation](https://github.com/cadudevemdobro/cadudevemdobro/blob/output/github-contribution-grid-snake.svg)
 
