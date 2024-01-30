@@ -1,6 +1,6 @@
-# Ascensão 🚀
 
-### Sobre Mim
+
+# Sobre Mim
 💻 - Curioso e hiperfocado estudante do curso técnico de Análise e Desenvolvimento de Sistemas, apaixonado por música e jogos. Tenho o objetivo claro de me tornar um desenvolvedor full stack, com uma sólida base em HTML e CSS permaneço adquirindo conhecimento.
 
 Busco oportunidades para aplicar e expandir minhas habilidades como desenvolvedor full stack, contribuindo para projetos desafiadores e inovadores.
