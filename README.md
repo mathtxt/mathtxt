@@ -28,15 +28,11 @@ Busco oportunidades para aplicar e expandir minhas habilidades como desenvolvedo
 
 
 
-## Crescimento 
+#### Crescimento 
 ![](https://github-readme-stats.vercel.app/api?username=mathtxt&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mathtxt&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mathtxt&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Entre em Contato
-+55 16 99992-6339
-<br>
-mathworkbase@gmail.com
 
 
 
